@@ -23,7 +23,9 @@ public class DNA {
                 String protein = dna.substring(dna.indexOf("ATG"), dna.indexOf("TGA") + 3);
                 System.out.println("Protein: "+ protein);
             }
-
+        }
+        else {
+            System.out.println("No protein.");
         }
     }
 

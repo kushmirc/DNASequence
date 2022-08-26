@@ -52,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661546050436</updated>
       <workItem from="1661546053896" duration="3108000" />
-      <workItem from="1661549180259" duration="913000" />
+      <workItem from="1661549180259" duration="1240000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661546268173</created>
@@ -89,7 +89,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661550716587</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add if statement to test for the existence of both a start and a stop codon">
+      <created>1661550769048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661550769048</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add a second if statement to test if the sequence is divisible by 3. Print a message for true condition on the two if statements">
+      <created>1661550863737</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661550863737</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Declare a new string variable protein and call the .substring() method to find the portion of the sequence between and including the start and stop">
+      <created>1661550976034</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661550976034</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +133,9 @@
     <MESSAGE value="Add 3 sample DNA strings" />
     <MESSAGE value="Add general dna variable and call .length() on it" />
     <MESSAGE value="Call .indexOf() to find start and stop codons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Call .indexOf() to find start and stop codons" />
+    <MESSAGE value="Add if statement to test for the existence of both a start and a stop codon" />
+    <MESSAGE value="Add a second if statement to test if the sequence is divisible by 3. Print a message for true condition on the two if statements" />
+    <MESSAGE value="Declare a new string variable protein and call the .substring() method to find the portion of the sequence between and including the start and stop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Declare a new string variable protein and call the .substring() method to find the portion of the sequence between and including the start and stop" />
   </component>
 </project>
