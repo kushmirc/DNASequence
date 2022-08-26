@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d173562b-a1b7-468a-a0f8-cc83d193c6b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DNASequence/DNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DNASequence/DNA.java" afterDir="false" />
-    </list>
+    <list default="true" id="d173562b-a1b7-468a-a0f8-cc83d193c6b5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661546050436</updated>
       <workItem from="1661546053896" duration="3108000" />
-      <workItem from="1661549180259" duration="1240000" />
+      <workItem from="1661549180259" duration="1556000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661546268173</created>
@@ -110,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661550976034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add else statement to print a message when the previous two conditions are false">
+      <created>1661551232953</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661551232953</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Youtube video walkthrough link to README">
+      <created>1661551374741</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661551374741</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +148,8 @@
     <MESSAGE value="Add if statement to test for the existence of both a start and a stop codon" />
     <MESSAGE value="Add a second if statement to test if the sequence is divisible by 3. Print a message for true condition on the two if statements" />
     <MESSAGE value="Declare a new string variable protein and call the .substring() method to find the portion of the sequence between and including the start and stop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Declare a new string variable protein and call the .substring() method to find the portion of the sequence between and including the start and stop" />
+    <MESSAGE value="Add else statement to print a message when the previous two conditions are false" />
+    <MESSAGE value="Add Youtube video walkthrough link to README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Youtube video walkthrough link to README" />
   </component>
 </project>
