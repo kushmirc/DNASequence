@@ -15,7 +15,10 @@ public class DNA {
         //find index of stop codon
         System.out.println(dna.indexOf("TGA"));
 
+//find a protein - a sequence containing start and stop and is divisible by 3
+        if (dna.indexOf("ATG") != -1 && dna.indexOf("TGA") != -1) {
 
+        }
     }
 
 }
