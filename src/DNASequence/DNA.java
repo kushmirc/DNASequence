@@ -20,8 +20,10 @@ public class DNA {
             if ((dna.indexOf("TGA") - dna.indexOf("ATG")) % 3 == 0){
                 System.out.println("Condition 1 and 2 and 3 are satisfied.");
 
-
+                String protein = dna.substring(dna.indexOf("ATG"), dna.indexOf("TGA") + 3);
+                System.out.println("Protein: "+ protein);
             }
+
         }
     }
 
