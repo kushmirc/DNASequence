@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d173562b-a1b7-468a-a0f8-cc83d193c6b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DNASequence/DNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DNASequence/DNA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661546050436</updated>
       <workItem from="1661546053896" duration="3108000" />
-      <workItem from="1661549180259" duration="611000" />
+      <workItem from="1661549180259" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661546268173</created>
@@ -76,16 +75,43 @@
       <option name="project" value="LOCAL" />
       <updated>1661546642313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add general dna variable and call .length() on it">
+      <created>1661550610427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661550610427</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Call .indexOf() to find start and stop codons">
+      <created>1661550716587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661550716587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add README file" />
     <MESSAGE value="Add 3 sample DNA strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 3 sample DNA strings" />
+    <MESSAGE value="Add general dna variable and call .length() on it" />
+    <MESSAGE value="Call .indexOf() to find start and stop codons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Call .indexOf() to find start and stop codons" />
   </component>
 </project>

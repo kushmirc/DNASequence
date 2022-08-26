@@ -17,7 +17,11 @@ public class DNA {
 
 //find a protein - a sequence containing start and stop and is divisible by 3
         if (dna.indexOf("ATG") != -1 && dna.indexOf("TGA") != -1) {
+            if ((dna.indexOf("TGA") - dna.indexOf("ATG")) % 3 == 0){
+                System.out.println("Condition 1 and 2 and 3 are satisfied.");
 
+
+            }
         }
     }
 
